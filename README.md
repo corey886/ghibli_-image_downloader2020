@@ -10,5 +10,5 @@ wget 3.2
 
 pip install wget
 
-Run
+Run 
 python ndd.py
